@@ -5,9 +5,11 @@ Hemos creado un sistema planetario, con unas pocas lunas y unos cuantos nombres
 Jacobo Placeres Cabrera
 
 ## Trabajo
-El proyecto consiste en una serie de planetas que orbitan en un sistema Planetario alrededor de una estrella, algunos de estos planestas también tienen lunas que giran alrededor suyo.
+El proyecto consiste en una serie de planetas que orbitan en un sistema Planetario alrededor de una estrella, algunos de estos planetas también tienen lunas que giran alrededor suyo.
 
 ![](p3.gif)
+## Decisiones
+En cuanto al programa, como cada cuerpo celeste realiza las mismas acciones, lo hemos diseñado de forma que cada cuerpo del sistema es un objeto, cuyos métodos, crean la figura, la trasladan, la rotan y finalmente la dibujan.
 
 ## Eventos
 Los empleamos para movernos por el sistema Planetario
@@ -17,7 +19,7 @@ Los empleamos para movernos por el sistema Planetario
 *   **s**                     - Se aleja la camara (eje Z)
 
 # Notas de uso
-Las texturas deben situarse en la misma carpeta donde se encuentran los ficheros
+Las texturas deben situarse en la misma carpeta donde se encuentran los ficheros.
 
 # Referencias
 **[Reference](https://processing.org/reference)**
